@@ -10,7 +10,7 @@ Database utilizzati: `NYC-Hotspots` e `iTunes`.
 | Sessione | Data       | Testi |
 |--------|------------|-------|
 | Invernale | 18/02/2023 |       |
-| Autunnale (riservata) | 02/11/2022 | [Turno unico](https://github.com/TdP-esami/2022-11-02) |
+| Straordinaria | 02/11/2022 | [Turno unico](https://github.com/TdP-esami/2022-11-02) |
 | Autunnale | 14/09/2022 | [Turno A](https://github.com/TdP-esami/2022-09-14-A), [Turno B](https://github.com/TdP-esami/2022-09-14-B) |
 | Estiva | 14/07/2022 | [Turno A](https://github.com/TdP-esami/2022-07-14-A), [Turno B](https://github.com/TdP-esami/2022-07-14-B) |
 | Estiva | 29/06/2022 | [Turno A](https://github.com/TdP-esami/2022-06-29-A),  [Turno B](https://github.com/TdP-esami/2022-06-29-B), [Turno C](https://github.com/TdP-esami/2022-06-29-C) | 
