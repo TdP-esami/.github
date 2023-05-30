@@ -2,7 +2,7 @@
 
 `03FYZ - Ing. Gestionale L8 - Politecnico di Torino`
 
-## Anno Accademico 2022/23
+## Anno Accademico 2021/22
 
 Database utilizzati: `NYC-Hotspots` e `iTunes`.
 
@@ -17,7 +17,7 @@ Database utilizzati: `NYC-Hotspots` e `iTunes`.
 | Simulazione | 31/05/2022 | [Testo](https://github.com/TdP-esami/2022-31-05-simulazione) |
 | Simulazione | 24/05/2022 | [Testo](https://github.com/TdP-esami/2022-05-24-simulazione) |
 
-## Anno Accademico 2021/22
+## Anno Accademico 2020/21
 
 Database utilizzati: `Yelp`, `genes-small`.
 
@@ -30,7 +30,7 @@ Database utilizzati: `Yelp`, `genes-small`.
 | Simulazione | 01/06/2021 | [Testo](https://github.com/TdP-esami/2021-06-01-simulazione) |
 | Simulazione | 26/05/2021 | [Testo](https://github.com/TdP-esami/2021-05-26-simulazione) |
 
-## Anno Accademico 2020/21
+## Anno Accademico 2019/20
 
 Database utilizzati: `PremierLeague`, `IMDb`.
 
@@ -43,7 +43,7 @@ Database utilizzati: `PremierLeague`, `IMDb`.
 | Simulazione | 10/06/2020 | [Testo](https://github.com/TdP-esami/2020-06-10-simulazione) |
 | Simulazione | 03/06/2020 | [Testo](https://github.com/TdP-esami/2020-06-03-simulazione) |
 
-## Anno Accademico 2019/20
+## Anno Accademico 2018/19
 
 Database utilizzati: `denver-crime`, `food_pyramid`.
 
