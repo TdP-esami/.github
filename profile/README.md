@@ -2,14 +2,28 @@
 
 `03FYZ - Ing. Gestionale L8 - Politecnico di Torino`
 
+## Anno Accademico 2022/23
+
+Database utilizzati: `lahmansbaseball` e `GOsales`.
+
+| Sessione      | Data       | Testi |
+|---------------|------------|-------|
+| Invernale     |            |  |
+| Straordinaria |            |  |
+| Autunnale     |            |  |
+| Estiva        | 17/07/2023 |  |
+| Estiva        | 30/06/2023 |  | 
+| Simulazione   | 30/05/2023 | [Testo](https://github.com/TdP-esami/2023-05-30-simulazione) |
+| Simulazione   | 23/05/2023 | [Testo](https://github.com/TdP-esami/2023-05-23-simulazione) |
+
+
 ## Anno Accademico 2021/22
 
 Database utilizzati: `NYC-Hotspots` e `iTunes`.
 
-
 | Sessione | Data       | Testi |
 |--------|------------|-------|
-| Invernale | 18/02/2023 |       |
+| Invernale | 18/02/2023 | [Turno unico](https://github.com/TdP-esami/2023-01-18) |
 | Straordinaria | 02/11/2022 | [Turno unico](https://github.com/TdP-esami/2022-11-02) |
 | Autunnale | 14/09/2022 | [Turno A](https://github.com/TdP-esami/2022-09-14-A), [Turno B](https://github.com/TdP-esami/2022-09-14-B) |
 | Estiva | 14/07/2022 | [Turno A](https://github.com/TdP-esami/2022-07-14-A), [Turno B](https://github.com/TdP-esami/2022-07-14-B) |
