@@ -33,7 +33,7 @@ Database utilizzati: `NYC-Hotspots` e `iTunes`.
 
 ## Anno Accademico 2020/21
 
-Database utilizzati: `Yelp`, `genes-small`.
+Database utilizzati: [`Yelp`](https://github.com/TdP-datasets/Yelp), [`genes-small`](https://github.com/TdP-datasets/genes_small).
 
 | Sessione | Data       | Testi |
 |--------|------------|-------|
