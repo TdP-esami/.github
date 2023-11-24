@@ -9,7 +9,7 @@ Database utilizzati: `lahmansbaseball` e `GOsales`.
 | Sessione      | Data       | Testi |
 |---------------|------------|-------|
 | Invernale     |            |  |
-| Straordinaria | 07/11/2023 |  |
+| Straordinaria | 07/11/2023 | [Turno unico](https://github.com/TdP-esami/2023-11-07) |
 | Autunnale     | 18/09/2023 | [Turno unico](https://github.com/TdP-esami/2023-09-18) |
 | Estiva        | 17/07/2023 | [Turno A](https://github.com/TdP-esami/2023-07-17-A), [Turno B](https://github.com/TdP-esami/2023-07-17-B) |
 | Estiva        | 30/06/2023 | [Turno A](https://github.com/TdP-esami/2023-06-30-A), [Turno B](https://github.com/TdP-esami/2023-06-30-B), [Turno C](https://github.com/TdP-esami/2023-06-30-C) | 
