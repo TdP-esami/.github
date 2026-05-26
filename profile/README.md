@@ -1,5 +1,6 @@
-## Anno accademico 2024-2025
+## Anno accademico 2025-2026
 | Appello | Data | Testo |
 |:----- |:-------|:-------
-|Estivo | 2025/07/10 | [Turno A](https://github.com/TdP-esami/2025-07-10-A.git), [Turno B](https://github.com/TdP-esami/2025-07-10-B.git)
-|Estivo | 2025/06/26 | [Turno A](https://github.com/TdP-esami/2025-06-26-A.git), [Turno B](https://github.com/TdP-esami/2025-06-26-B.git), [Turno C](https://github.com/TdP-esami/2025-06-26-C.git)
+|Simulazione 2 | 2026/05/26 | [Turno Unico](https://github.com/TdP-esami/2026-05-26-Simulazione2)
+|Simulazione 1 | 2026/05/19 | [Turno Unico](https://github.com/TdP-esami/2026-05-19-Simulazione1)
+
